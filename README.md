@@ -1,6 +1,7 @@
 # 152022031_UTS_Pemrograman-Mobile
 
-A new Flutter project.
+### Halaman awal aplikasi adalah Splash Screen 5 detik, yang berisikan (judul aplikasi, foto anda, NIM, nama anda) 
+![alt text](https://github.com/selmaauliya/152022031_UTS_Pemrograman-Mobile/blob/main/gambar/Splash%20Screen.png?raw=true)
 
 ## Getting Started
 
