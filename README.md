@@ -1,7 +1,25 @@
 # 152022031_UTS_Pemrograman-Mobile
 
-### Halaman awal aplikasi adalah Splash Screen 5 detik, yang berisikan (judul aplikasi, foto anda, NIM, nama anda) 
+#### Halaman awal aplikasi adalah Splash Screen 5 detik, yang berisikan (judul aplikasi, foto anda, NIM, nama anda) 
 ![alt text](https://github.com/selmaauliya/152022031_UTS_Pemrograman-Mobile/blob/main/gambar/Splash%20Screen.png?raw=true)
+
+#### Ada juga Dasboard Yang berisi Sebagai berikut
+##### Halaman Biodata
+![alt text](https://github.com/selmaauliya/152022031_UTS_Pemrograman-Mobile/blob/main/gambar/Halaman%20Biodata.png?raw=true)
+
+##### Halaman Kontak
+![alt text](https://github.com/selmaauliya/152022031_UTS_Pemrograman-Mobile/blob/main/gambar/Halaman%20Kontak.png?raw=true)
+
+##### Kalkulator
+![alt text](https://github.com/selmaauliya/152022031_UTS_Pemrograman-Mobile/blob/main/gambar/Kalkulator.png?raw=true)
+
+##### Halaman Cuaca
+![alt text](https://github.com/selmaauliya/152022031_UTS_Pemrograman-Mobile/blob/main/gambar/Halaman%20Cuaca.png?raw=true)
+
+##### Halaman Berita
+![alt text](https://github.com/selmaauliya/152022031_UTS_Pemrograman-Mobile/blob/main/gambar/Halaman%20Berita.png?raw=true)
+
+
 
 ## Getting Started
 
